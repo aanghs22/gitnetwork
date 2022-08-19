@@ -22,7 +22,7 @@ In this project, I explore the publicly available datasets on buses with the int
 ## Resources needed for this exploration
 The datasets used include: 
 <br> (1) Master Plan 2019 Planning Area
-	<br> - Segments the land area of Singapore into 3 different levels - Region, Planning Area and Subzone
+<br> > - Segments the land area of Singapore into 3 different levels - Region, Planning Area and Subzone
 <br> (2) Bus Stops Dataset (from [LTA Datamall](https://datamall.lta.gov.sg/content/datamall/en.html))
     <br> - Provides the bus stop code and geo-coordinates for every bus stop in Singapore 
 <br> (3) Origin-Destination Passenger Volume Trip Records (from [LTA Datamall](https://datamall.lta.gov.sg/content/datamall/en.html))
@@ -33,7 +33,7 @@ The datasets used include:
 <br> Adopted to display the bus stop densities across Singapore, segmented by subzones. 
 
 (2) Chord Diagrams
-<br> Adopted to display the flows between different regions/planning areas/subzones in Singapore 
+<br> Adopted to display the flows between different regions/planning areas/subzones in Singapore. 
 <br> - These diagrams represent flows or connections between several entities (i.e. nodes). 
 <br> - Each fragment is represented by a fragment on the counterpart of the circular layout.
 <br> - Links are drawn between each of the entities. The size of the links correlate with the importance of flow between the entities. 
