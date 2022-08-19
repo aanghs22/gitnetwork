@@ -3,7 +3,8 @@
 ## Prelude 
 
 ![bus image](https://github.com/aanghs22/gitnetwork/blob/main/Images/bus%20image.jpeg?raw=true)
-As a frequent user of the public transportation system in Singapore (especially the buses), I always find myself wondering about the transportation system - is the load of commuters _always_ this heavy for all bus services? Where do people like to go via the public bus? Is there a neighbourhood that relies greatly on the buses to arrive at their destination? 
+<br> _Image credits: Land Transport Guru_
+<br> As a frequent user of the public transportation system in Singapore (especially the buses), I always find myself wondering about the transportation system - is the load of commuters _always_ this heavy for all bus services? Where do people like to go via the public bus? Is there a neighbourhood that relies greatly on the buses to arrive at their destination? 
 
 ## Project Objectives 
 In this project, I explore the publicly available datasets on buses with the intention of: 
