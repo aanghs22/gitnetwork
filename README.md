@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-<br> _Image credits: Land Transport Guru_
+<br> <i> Image credits: Land Transport Guru </i>
 </div>
 
 <br> As a frequent user of the public transportation system in Singapore (especially the buses), I always find myself wondering about the transportation system - is the load of commuters _always_ this heavy for all bus services? Where do people like to go via the public bus? Is there a neighbourhood that relies greatly on the buses to arrive at their destination? 
