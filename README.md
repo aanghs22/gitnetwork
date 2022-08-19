@@ -21,7 +21,6 @@ In this project, I explore the publicly available datasets on buses with the int
 
 ## Resources needed for this exploration
 The datasets used include: 
-
 <br> (1) Master Plan 2019 Planning Area
 	<br> * Segments the land area of Singapore into 3 different levels - Region, Planning Area and Subzone
 <br> (2) Bus Stops Dataset [LTA Datamall](https://datamall.lta.gov.sg/content/datamall/en.html)
@@ -35,6 +34,8 @@ The datasets used include:
 
 (2) Chord Diagrams
 <br> Adopted to display the flows between different regions/planning areas/subzones in Singapore 
-<br> - These diagrams represent flows or connections between several entities (i.e. nodes). 
+<br> * These diagrams represent flows or connections between several entities (i.e. nodes). 
+<br> * Each fragment is represented by a fragment on the counterpart of the circular layout.
+<br> * Links are drawn between each of the entities. The size of the links correlate with the importance of flow between the entities. 
 
  For a walkthrough on the data cleaning process, as well as the data visualisations, you may head to this [Google Colab site](https://colab.research.google.com/drive/1K0IxFhGMa3sqCJjdW5cZ8qalPF7Oy2j8?usp=sharing) to explore the data on your own without needing to clone this repository.
