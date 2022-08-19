@@ -25,7 +25,7 @@ The requirements.txt file contains libraries that this Python notebook will depe
     pip install -r requirements.txt
 ```
 ### Datasets
-<br> (1) Master Plan 2019 Planning Area
+(1) Master Plan 2019 Planning Area
 - Segments the land area of Singapore into 3 different levels - Region, Planning Area and Subzone
 
 (2) Bus Stops Dataset (from [LTA Datamall](https://datamall.lta.gov.sg/content/datamall/en.html))
