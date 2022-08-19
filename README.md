@@ -5,6 +5,9 @@
 
 ![bus image](https://github.com/aanghs22/gitnetwork/blob/main/Images/bus%20image.jpeg?raw=true)
 
+</div>
+
+<div align="center">
 <br> <i> Image credits: Land Transport Guru </i>
 </div>
 
