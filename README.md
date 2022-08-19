@@ -23,8 +23,10 @@ In this project, I explore the publicly available datasets on buses with the int
 The datasets used include: 
 <br> (1) Master Plan 2019 Planning Area
 - Segments the land area of Singapore into 3 different levels - Region, Planning Area and Subzone
+
 <br> (2) Bus Stops Dataset (from [LTA Datamall](https://datamall.lta.gov.sg/content/datamall/en.html))
 - Provides the bus stop code and geo-coordinates for every bus stop in Singapore 
+
 <br> (3) Origin-Destination Passenger Volume Trip Records (from [LTA Datamall](https://datamall.lta.gov.sg/content/datamall/en.html))
 - Sums the total trips from one bus stop to another bus stop
 
