@@ -19,13 +19,12 @@ In this project, I explored the publicly available datasets on buses with the in
 <br> (3) simply exploring the dataset. 
 
 ## Resources needed for this exploration
-### Requirements: 
+### Requirements
 The requirements.txt file contains libraries that this Python notebook will depend on, and can be installed using:
-
 ```
     pip install -r requirements.txt
 ```
-### The datasets used include: 
+### Datasets
 <br> (1) Master Plan 2019 Planning Area
 - Segments the land area of Singapore into 3 different levels - Region, Planning Area and Subzone
 
