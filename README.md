@@ -37,10 +37,10 @@ The requirements.txt file contains libraries that this Python notebook will depe
 ## Data Exploration
 ### Visualizations  
 (1) Choropleth Charts 
-- Adopted to display the bus stop densities across Singapore, segmented by subzones. 
+- Displays the bus stop densities across Singapore, segmented by subzones. 
 
 (2) Chord Diagrams
-- Adopted to display the flows between different regions/planning areas/subzones in Singapore. 
+- Displays the flows between different regions/planning areas/subzones in Singapore. 
 - These diagrams represent flows or connections between several entities (i.e. nodes). 
 - Each fragment is represented by a fragment on the counterpart of the circular layout.
 - Links are drawn between each of the entities. The size of the links correlate with the importance of flow between the entities. 
